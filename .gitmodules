@@ -2,7 +2,3 @@
 	path = prezto
 	url = https://github.com/uberrich/prezto.git
 	branch = master
-[submodule "dotfiles"]
-	path = dotfiles
-	url = https://github.com/uberrich/dotfiles.git
-	branch = master
