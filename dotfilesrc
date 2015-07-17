@@ -1,0 +1,11 @@
+[dotfiles]
+repository = ~/FullStop
+packages = [
+	'config']
+ignore = [
+	'.git',
+	'.gitignore',
+	'.gitmodules',
+	'LICENSE',
+	'prezto',
+	'*.swp']
