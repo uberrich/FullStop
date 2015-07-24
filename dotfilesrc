@@ -7,5 +7,4 @@ ignore = [
 	'.gitignore',
 	'.gitmodules',
 	'LICENSE',
-	'prezto',
 	'*.swp']
